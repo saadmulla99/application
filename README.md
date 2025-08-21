@@ -1,2 +1,2 @@
-# updated application of developer b
- 
+updated application of developer b
+Update application adding developer a story
